@@ -1,5 +1,18 @@
-## Hi there 👋
 
+# Hi 👋 I'm Aditya Kandpal
+
+🎓 B.Tech CSE (AI & ML) Student
+
+🌱 Currently Learning
+- Python
+- Git & GitHub
+- C Programming
+
+🎯 Goal
+Become an AI Engineer
+
+📫 Connect with me
+Linkedin:(https://www.linkedin.com/in/adityakandpal-ai)
 <!--
 **adityakandpal855-cell/adityakandpal855-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
